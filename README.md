@@ -1,5 +1,5 @@
 
-# BlueKai Wordpress Plug-in
+# BlueKai (Unofficial) Wordpress Plug-in
 
 ## How to install ##
 In the admin section, go to add new plug-in and click 'add new':
