@@ -272,6 +272,9 @@ function getbluekaiTagCode() {
 
 		foreach($bluekaidata as $key => $value) {
 
+			// Convert arrays into strings
+			if(is_array($value)){$value = implode('|',$value);}
+				
 			// If var is not empty, trigger it
 			if(!empty($value)){
 				$bluekaitag .= "		bk_addPageCtx('$key', '$value');\n";    		

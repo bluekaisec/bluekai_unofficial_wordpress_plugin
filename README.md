@@ -8,7 +8,7 @@ In the admin section, go to add new plug-in and click 'add new':
 Click on 'upload plug-in':
 ![Upload Plug-in](https://www.evernote.com/shard/s142/sh/38bea760-9dad-4000-9455-74063f63c80b/f0cccb2b2b2fd3f4/res/44b88601-0053-4f51-b89b-c41682f89b69/skitch.png?resizeSmall&width=832)
 
-Upload the zip and activate!
+Upload the BlueKai.zip and activate!
 
 ## How to Use ##
 You can configure the plug-in in 'settings':

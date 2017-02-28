@@ -69,6 +69,9 @@ This can be achieved calling the 'bluekai_addToDataObject' action from your them
 
 == Changelog ==
 
+= 0.2 =
+Updating to handle arrays
+
 = 0.1 =
 Initial version
 
